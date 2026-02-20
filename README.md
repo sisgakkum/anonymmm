@@ -1,2 +1,1 @@
-# datakara
-sisgakkum
+sada
